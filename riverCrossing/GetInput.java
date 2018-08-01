@@ -25,7 +25,7 @@ public class GetInput
 		{
 			g=g+' ';
 		}
-		return g;
+		return g.toUpperCase();
 	}
 	public int tryagain() throws IOException
 	{
